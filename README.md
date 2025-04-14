@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fernando Souza.  
 
 ## 🌎 About Me  
-🚀 Transitioning into a **Junior Developer** role after 20+ years in IT, including 18 years in the financial industry.  
+🚀 Transitioning into a **Software Developer** role after 20+ years in IT, including 18 years in the financial industry.  
 🎯 Passionate about **software development**, problem-solving, and building innovative solutions.  
 📍 Currently based in Canada, pursuing a **Computer Programming Diploma at Conestoga College** *(Graduating in April 2025).*  
 💡 Strong background in **system analysis, project management, and crisis management**.  
